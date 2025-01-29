@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JNemSsvzIgU=",
+  "dgSpecHash": "HvdXy8BsBMw=",
   "success": true,
-  "projectFilePath": "/workspaces/backendNew/backend/RegistrationChecker/RegistrationChecker-Backend/backend/backend.csproj",
+  "projectFilePath": "/workspaces/backendNew/backend/Backend/RegistrationChecker/Backend/backend/backend.csproj",
   "expectedPackageFiles": [
     "/home/vscode/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.3.0/microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.aspnetcore.authorization/2.3.0/microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",

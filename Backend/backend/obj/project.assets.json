@@ -1548,11 +1548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/backendNew/backend/RegistrationChecker/RegistrationChecker-Backend/backend/backend.csproj",
+      "projectUniqueName": "/workspaces/backendNew/backend/Backend/RegistrationChecker/Backend/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/workspaces/backendNew/backend/RegistrationChecker/RegistrationChecker-Backend/backend/backend.csproj",
+      "projectPath": "/workspaces/backendNew/backend/Backend/RegistrationChecker/Backend/backend/backend.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/backendNew/backend/RegistrationChecker/RegistrationChecker-Backend/backend/obj/",
+      "outputPath": "/workspaces/backendNew/backend/Backend/RegistrationChecker/Backend/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"
